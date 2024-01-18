@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Kashyap</h1>
 <h3 align="center">A passionate Technology and Automobile Enthusiast</h3>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/Rudra18GTHB/E-WASTE-CONNECT"><b>E-WASTE-CONNECT</b></a></p>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/Rudra18GTHB/LOAN-DEFAULT-PREDICTION"><b>LOAN-DEFAULT-PREDICTION</b></a></p>
 
 <p align="center">🌱 I’m currently learning <b>JavaScript</b></p>
 
