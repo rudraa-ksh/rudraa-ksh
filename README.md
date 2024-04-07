@@ -3,7 +3,7 @@
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/rudraa-ksh/LOAN-DEFAULT-PREDICTION"><b>LOAN-DEFAULT-PREDICTION</b></a></p>
 
-<p align="center">🌱 I’m currently learning <b>Django</b></p>
+<p align="center">🌱 I’m currently learning <b>JavaScript</b></p>
 
 <p align="center">💬 Ask me about <b>Web Development</b></p>
 
