@@ -17,6 +17,7 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/other-docs.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="40" height="40"/></a>
 </p>
 <h3 align="center">Frameworks:</h3>
 <p align="center">
