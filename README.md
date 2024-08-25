@@ -38,6 +38,7 @@
   <a href="https://expressjs.com/"><img src="https://github.com/user-attachments/assets/b44d71c4-9868-4b47-892e-20cc78a50c44" alt="expressjs" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postman.com/home"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/></a>
 </p>
 <hr>
 
