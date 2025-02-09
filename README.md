@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Technology and Automobile Enthusiast</h3>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/rudraa-ksh/WEATHER-APP"><b>WEATHER-APP</b></a></p>
-
 <p align="center">🌱 I’m currently learning <b>MERN</b></p>
 
 <p align="center">💬 Ask me about <b>Web Development</b></p>
@@ -19,7 +17,6 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.r-project.org/other-docs.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="r" width="40" height="40"/></a>
 </p>
 <hr>
 
@@ -36,9 +33,9 @@
 <p align="center">
   <a href="https://nodejs.org/en/"><img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com/"><img src="https://github.com/user-attachments/assets/b44d71c4-9868-4b47-892e-20cc78a50c44" alt="expressjs" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="Django" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postman.com/home"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.postman.com/home"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/></a>
 </p>
 <hr>
 
